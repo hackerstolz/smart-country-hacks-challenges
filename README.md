@@ -1,4 +1,4 @@
-# API & Challenges available at smartcountry{hacks}
+# APIs & Challenges available at smartcountry{hacks}
 This is the repository where we collect all challenges and APIs represented at the smartcountry{hacks} hackathon.
 For more information on the event please check out the event description at [our event page](https://www.smartcountry-hacks.de)
 
