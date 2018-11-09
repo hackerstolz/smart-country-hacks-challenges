@@ -1,8 +1,8 @@
 # Landeshauptstadt München
 
-<center>
-<img src="https://www.xing.com/img/custom/cp/assets/logo/d/7/0/15728/square_512px/12lh.jpg" />
-</center>
+<div align="center">
+<img src="https://www.xing.com/img/custom/cp/assets/logo/d/7/0/15728/square_512px/12lh.jpg"  width="300px"/>
+</div>
 
 
 

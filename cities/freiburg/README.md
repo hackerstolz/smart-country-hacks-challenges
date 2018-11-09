@@ -1,6 +1,9 @@
 # Freiburg
 
-<center><img src="https://pbs.twimg.com/profile_images/953194126190800897/SEayPnVk_400x400.jpg" /> </center>
+
+<div align="center">
+<img src="https://pbs.twimg.com/profile_images/953194126190800897/SEayPnVk_400x400.jpg" width="300px"/> 
+</div>
 
 ## Challenges
 Die Challenges sind auf dem Barcamp der Stadt Freiburg entstande!
@@ -31,4 +34,3 @@ Die Challenges sind auf dem Barcamp der Stadt Freiburg entstande!
 * Wie können solche Daten anonymisiert werden?
 * Wie können die gesammelten Daten für Civic Hackers, Journalisten, Wirtschaft oder Wissenschaft verfügbar gemacht werden?
 
- 

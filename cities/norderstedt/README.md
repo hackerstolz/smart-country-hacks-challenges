@@ -1,9 +1,9 @@
 # Stadt Norderstedt
 
+<div align="center">
+  <img src="https://smartcountry-hacks.de/wp-content/uploads/2018/11/norderstedt_logo.png"  width="300px"/>
+</div>
 
-<center>
-<img src="https://smartcountry-hacks.de/wp-content/uploads/2018/11/norderstedt_logo.png" />
-</center>
 
 ## Challenges
 

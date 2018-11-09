@@ -1,8 +1,8 @@
 # ITDZ Berlin
 
-<center>
-  <img src="https://smartcountry-hacks.de/wp-content/uploads/2018/08/itdz_logo.svg"/>
-</center>
+<div align="center">
+  <img src="https://smartcountry-hacks.de/wp-content/uploads/2018/08/itdz_logo.svg" width="300px"/>
+</div>
 
 ## Challenges
 
