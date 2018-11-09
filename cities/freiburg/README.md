@@ -1,6 +1,6 @@
 # Freiburg
 
-<center><img src="https://smartcountry-hacks.de/wp-content/uploads/2018/09/smartcountry-hacks-digital-freiburg.png" /> </center>
+<center><img src="https://pbs.twimg.com/profile_images/953194126190800897/SEayPnVk_400x400.jpg" /> </center>
 
 ## Challenges
 Die Challenges sind auf dem Barcamp der Stadt Freiburg entstande!

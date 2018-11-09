@@ -1,7 +1,7 @@
 # Landeshauptstadt München
 
 <center>
-<img src="https://smartcountry-hacks.de/wp-content/uploads/2018/10/smartcountry-hacks-landeshauptstadt-muenchen.png" />
+<img src="https://www.xing.com/img/custom/cp/assets/logo/d/7/0/15728/square_512px/12lh.jpg" />
 </center>
 
 
