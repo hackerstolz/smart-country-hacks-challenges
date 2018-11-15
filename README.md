@@ -36,7 +36,7 @@ Wir werden auf auf dem smartcountry{hacks} wieder spannende Workshops haben. Der
 | Zeit     | Thema                   | Vortragender  |
 | -------- | ------------------------| --------------|
 | 11:30    | Wikidata - Die strukturierte Datenquelle hinter Wikipedia | Sandra Muellrick  |
-| 12:00    | Einstieg in die High-Mobility API | TBA           |
+| 12:00    | Einstieg in die High-Mobility API | Kevin Valdek           |
 | 12:30    | TBA                     | TBA           |
 | 13:00    | Einstieg in die Caruso-Dataplace API | TBA           |
 
@@ -78,6 +78,6 @@ This is a preliminary workshop schedule. The workshops will be held in the works
 | Time     | Workshop Topic          | Presenter     |
 | -------- | ------------------------| --------------|
 | 11:30    | Wikidata - The source of structured data behind Wikipedia | Sandra Muellrick |
-| 12:00    | Introduction to the High-Mobility API | TBA           |
+| 12:00    | Introduction to the High-Mobility API | Kevin Valdek           |
 | 12:30    | TBA                     | TBA           |
 | 13:00    | Introduction to the Caruso-Dataplace API | TBA           |
