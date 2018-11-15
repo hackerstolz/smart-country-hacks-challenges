@@ -1,4 +1,4 @@
-# AI Park
+# AIPARK
 
 <div align="center">
   <img src="./logo_light.png" width="300px"/>
