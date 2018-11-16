@@ -14,3 +14,8 @@ HIGH MOBILITY provides a connected car API platform with a full toolkit to work 
 ## Workshop
 
 Join the workshop at 12:00 on the first day of smartcountry{hacks} to get an introduction to the platform!
+
+
+## Support
+
+For questions, there are people from HIGH MOBILITY available on-site. If you can't find them you can also contact them via the [#high-mobility](https://hackerstolz-community.slack.com/app_redirect?channel=CE4EPHUMQ) Slack channel.
