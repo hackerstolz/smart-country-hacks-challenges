@@ -8,9 +8,13 @@ Alle weiteren Information zu dem hackathon findet ihr auf [unserer Website](http
 
 ## Devpost
 
-Wir benutzeh *Devposts* um unseren Hackathon zu managen .Bitte registriert ihr euch auch dort: [smartcountry{hacks} Devposts page](https://smartcountry-hacks.devpost.com/)
+Wir benutzen *Devposts* um unseren Hackathon zu managen. Bitte registriert ihr euch auch dort: [smartcountry{hacks} Devposts page](https://smartcountry-hacks.devpost.com/)
 
 :checkered_flag: Ihr müssten am Ende den Hackathon euer Projekt auf  *Devpost* einreichen. Nur die eingereichten Projekte werden auch bewertet ! :checkered_flag:
+
+## Slack
+
+Wir benutzen *Slack* für Ankündigungen während des Hackathons. Dieses findet ihr unter [hackerstolz-community.slack.com](https://hackerstolz-community.slack.com). Der primäre Channel für den Hackathon ist [#smartcountryhacks](https://hackerstolz-community.slack.com/app_redirect?channel=CE3C8Q9R9).
 
 ## Challenges
 Wir sind mit vielen Städten in Deutschlan in Kontakt getreten und haben eine große List von realen Problemen der Städte und Bürger gesammelt! Wenn ihr diese Challenges bearbeitet bekommt ihr einen Bonus von 20% auf eurer Gesamtwertung. Also go for it!
@@ -52,6 +56,10 @@ Please be aware that not all Challenges are also posted in English, find a team 
 We use *Devposts* as our hackathon management system! Please also register there: [smartcountry{hacks} Devposts page](https://smartcountry-hacks.devpost.com/)
 
 :checkered_flag: You will need to submit your project to our hackathon at *Devpost* at the end! :checkered_flag:
+
+## Slack
+
+We use *Slack* for announcements during the hackathon. You can find it at [hackerstolz-community.slack.com](https://hackerstolz-community.slack.com). The primary channel for the hackathon is [#smartcountryhacks](https://hackerstolz-community.slack.com/app_redirect?channel=CE3C8Q9R9).
 
 ## Challenges
 We have collected real-life challenges from out public event partners. 
