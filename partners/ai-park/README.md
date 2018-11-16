@@ -20,3 +20,7 @@ API-Key: `smart_country_hack`
 
 User: `smart_country_hack`
 PW: `aipark_demo`
+
+### Support
+
+For questions, there are people from AIPARK available on-site. If you can't find them you can also contact them via the [#aipark](https://hackerstolz-community.slack.com/app_redirect?channel=CE4BMGMPV) Slack channel.
