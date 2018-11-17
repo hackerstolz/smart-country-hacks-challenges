@@ -27,6 +27,7 @@ Wir sind mit vielen Städten in Deutschlan in Kontakt getreten und haben eine gr
 
 ## APIs provided by our API Partners
 
+* [Bundesministerium für Verkehr und digitale Infrastruktur](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/verkehrsministerium)
 * [AI Park](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/ai-park)
 * [Carouso dataplace](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/caruso-dataplace)
 * [High Mobility](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/high-mobility)
@@ -72,6 +73,7 @@ We have collected real-life challenges from out public event partners.
 
 ## APIs provided by our API Partners
 
+* [Bundesministerium für Verkehr und digitale Infrastruktur](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/verkehrsministerium)
 * [AI Park](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/ai-park)
 * [Carouso dataplace](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/caruso-dataplace)
 * [High Mobility](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/high-mobility)
