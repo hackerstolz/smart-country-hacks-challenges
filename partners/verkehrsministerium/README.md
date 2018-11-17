@@ -1,7 +1,7 @@
 # Bundesministerium für Verkehr und digitale Infrastruktur BMVI
 
 <div align="center">
-  <img src="./logo_light.png" width="300px"/>
+  <img src="https://smartcountry-hacks.de/wp-content/uploads/2018/09/smartcountry-hacks-verkehrsministerium.png" width="300px"/>
 </div>
 
 
