@@ -40,10 +40,10 @@ Wir werden auf auf dem smartcountry{hacks} wieder spannende Workshops haben. Der
 
 | Zeit     | Thema                   | Vortragender  |
 | -------- | ------------------------| --------------|
-| 11:30    | Wikidata - Die strukturierte Datenquelle hinter Wikipedia | Sandra Muellrick  |
-| 12:00    | Einstieg in die High-Mobility API (auf Englisch) | Kevin Valdek           |
-| 12:30    | TBA                     | TBA           |
-| 13:00    | Einstieg in die Caruso-Dataplace API | TBA           |
+| **11:30**    | **Wikidata** - Die strukturierte Datenquelle hinter Wikipedia | Sandra Muellrick  |
+| **12:00**    | Einstieg in die **High-Mobility API** (Englisch) | Kevin Valdek           |
+| **12:30**    | TBA                     | TBA           |
+| **13:00**    | Einstieg in die **Caruso-Dataplace API** | TBA           |
 
 **Am Mittwoch ab 10:00 Uhr** sind unsere Partner von **D-Collective** für euch vor Ort, um euch bei euren Pitches zu helfen.
 
@@ -88,9 +88,9 @@ This is a preliminary workshop schedule. The workshops will be held in the works
 
 | Time     | Workshop Topic          | Presenter     |
 | -------- | ------------------------| --------------|
-| 11:30    | Wikidata - the free and open knowledge base | Sandra Muellrick |
-| 12:00    | Introduction to the High-Mobility API | Kevin Valdek           |
-| 12:30    | TBA                     | TBA           |
-| 13:00    | Introduction to the Caruso-Dataplace API | TBA           |
+| **11:30**    | **Wikidata** - the free and open knowledge base | Sandra Muellrick |
+| **12:00**    | Introduction to the **High-Mobility API** | Kevin Valdek           |
+| **12:30**    | TBA                     | TBA           |
+| **13:00**   | Introduction to the **Caruso-Dataplace API** | TBA           |
 
 **On Wednesday from 10:00AM** our partners **D-Collective** are present on-site to assist you with building your pitches.
