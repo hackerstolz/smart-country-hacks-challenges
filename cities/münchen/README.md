@@ -30,7 +30,7 @@ Hier findet ihr eine Liste von Datensätzen und APIs die euch helfen können, di
 - Fahrradzählstellen im OpenData Portal der LHM ([Link](https://www.opengov-muenchen.de/group/transport-verkehr))
 und verortet auf Karte hier: ([Link](http://verkehrsdaten.info/MunichSiteMap.htm))
 
-- Informationen der lokalen OKLab-Community rund um Bike- u.a. -Sharing (noch zu klären) 
+- Informationen der lokalen OKLab-Community rund um Bike- u.a. -Sharing
 ([Link 1](https://offenedaten.de/),
 [Link 2](https://codefor.de/projekte/2018-02-21-radlquartier.html))
 
