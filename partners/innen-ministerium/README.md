@@ -7,4 +7,4 @@ Das Bundesminsterium des Inneren stellt über das Bundesamt für Kartografie Dat
 
 Die sehr umfassende Übersicht von Daten findet ihr als PDF:
 
-<a href="./Datendokumentation_BMVI_SmartCountryHacks_2018_11-16.pdf"> Link zu Datendokumentation </a>
+<a href="./Uebersicht_offene_Georeferenzdaten_Stand181030.pdf"> Link zu Datendokumentation </a>
