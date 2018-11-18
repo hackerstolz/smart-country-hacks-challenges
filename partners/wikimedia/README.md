@@ -23,11 +23,11 @@ For questions, there are people from Wikidata available on-site. If you can't fi
 ## Langugage libraries 
 
 ### PHP
-- Wikibase API Library: <github.com/addwiki/wikibase-api>
-- SPARQL abstraction: <github.com/Benestar/asparagus>
+- Wikibase API Library: <https://github.com/addwiki/wikibase-api>
+- SPARQL abstraction: <https://github.com/Benestar/asparagus>
 
 ### Python
-- Wiki bot Framework: mediawiki.org/wiki/Manual:Pywikibot/Wikidata
+- Wiki bot Framework: <https://mediawiki.org/wiki/Manual:Pywikibot/Wikidata>
 
 ### C# .NET
-- Wikibase API Library: github.com/Benestar/wikibase.net
+- Wikibase API Library: <https://github.com/Benestar/wikibase.net>
