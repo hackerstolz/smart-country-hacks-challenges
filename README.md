@@ -51,7 +51,7 @@ Wir werden auf auf dem smartcountry{hacks} wieder spannende Workshops haben. Der
 This is the repository where we collect all challenges and APIs represented at the smartcountry{hacks} hackathon.
 For more information on the event please check out the event description at [our event page](https://www.smartcountry-hacks.de)
 
-Please be aware that not all Challenges are also posted in English, find a team with a german native speaker!
+Please be aware that **not all Challenges are also posted in English, find a team with a German native speaker**!
 
 ## Devpost
 
