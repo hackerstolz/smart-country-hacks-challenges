@@ -42,8 +42,11 @@ Eine Anbindung des ZMS an das Service-Konto Berlin (service.berlin.de/konto/), b
 Skizzieren Sie mögliche Inzentivierungsmaßnahmen, die die Wahrscheinlichkeit erhöhen, dass eine Bürgerin oder ein Bürger einen zuvor gebuchten Termin auch wahrnimmt – oder zumindest rechtzeitig vorher absagt, damit der Termin im ZMS wieder freigegeben werden kann.
 Beschreibung der Datensätze
 
-### Zur Verfügung stehen 2 Datensätze.
+## Daten
+
+Zur Verfügung stehen 2 Datensätze:
 
 * Auswertungen der Termine in allen Bürgeramtsstandorte aufgeschlüsselt nach Dienstleistungsart, Jahr, Monat & Tag – rückwirkend bis ~2013 (je nach Standort)
 * Report einer automatisierten Abfrage an das ZMS, das im 15-Minuten-Takt für jedes Bürgeramt auswertet, wann der nächste freie Termin verfügbar ist
-Viel Spaß!
+
+Diese Datensätze werden über eine REST API zur verfügung gestellt. [Eine genauere Dokumentation dazu findend sie hier.](./api_dokumentation.md)
