@@ -45,6 +45,7 @@ Wir werden auf auf dem smartcountry{hacks} wieder spannende Workshops haben. Der
 | 12:30    | TBA                     | TBA           |
 | 13:00    | Einstieg in die Caruso-Dataplace API | TBA           |
 
+**Am Mittwoch ab 10:00 Uhr** sind unsere Partner von **D-Collective** für euch vor Ort, um euch bei euren Pitches zu helfen.
 
 # English Version: APIs & Challenges available at smartcountry{hacks}
 This is the repository where we collect all challenges and APIs represented at the smartcountry{hacks} hackathon.
@@ -91,3 +92,5 @@ This is a preliminary workshop schedule. The workshops will be held in the works
 | 12:00    | Introduction to the High-Mobility API | Kevin Valdek           |
 | 12:30    | TBA                     | TBA           |
 | 13:00    | Introduction to the Caruso-Dataplace API | TBA           |
+
+**On Wednesday from 10:00AM** our partners **D-Collective** are present on-site to assist you with building your pitches.
