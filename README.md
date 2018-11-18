@@ -47,7 +47,7 @@ Wir werden auf auf dem smartcountry{hacks} wieder spannende Workshops haben. Der
 
 **Am Mittwoch ab 10:00 Uhr** sind unsere Partner von **D-Collective** für euch vor Ort, um euch bei euren Pitches zu helfen.
 
-# English Version: APIs & Challenges available at smartcountry{hacks}
+# 🇬🇧 English Version: APIs & Challenges available at smartcountry{hacks}
 This is the repository where we collect all challenges and APIs represented at the smartcountry{hacks} hackathon.
 For more information on the event please check out the event description at [our event page](https://www.smartcountry-hacks.de)
 
