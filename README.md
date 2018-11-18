@@ -17,7 +17,7 @@ Wir benutzen *Devposts* um unseren Hackathon zu managen. Bitte registriert ihr e
 Wir benutzen *Slack* für Ankündigungen während des Hackathons. Dieses findet ihr unter [hackerstolz-community.slack.com](https://hackerstolz-community.slack.com). Der primäre Channel für den Hackathon ist [#smartcountryhacks](https://hackerstolz-community.slack.com/app_redirect?channel=CE3C8Q9R9).
 
 ## :scroll:Challenges:scroll:
-Wir sind mit vielen Städten in Deutschlan in Kontakt getreten und haben eine große List von realen Problemen der Städte und Bürger gesammelt! Wenn ihr diese Challenges bearbeitet bekommt ihr einen Bonus von 20% auf eurer Gesamtwertung. Also go for it!
+Wir sind mit vielen Städten in Deutschland in Kontakt getreten und haben eine große List von realen Problemen der Städte und Bürger gesammelt! Wenn ihr diese Challenges bearbeitet bekommt ihr einen Bonus von 20% auf eurer Gesamtwertung. Also go for it!
 
 * [ITDZ-Berlin Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/itdz-berlin)
 * [Freiburg Digital Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/freiburg)
