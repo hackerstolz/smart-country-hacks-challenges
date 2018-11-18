@@ -1,6 +1,6 @@
 # APIs & Challenges für den  smartcountry{hacks}
 
-** You find an english version below**
+** [You can find an english version below](#english-version-apis--challenges-available-at-smartcountryhacks) **
 
 In diesem Repository sammeln wir alle Challenges und APIs die auf dem smartcountry{hacks} hackathon von unseren Partner zur Verfügung gestellt werden.
 
