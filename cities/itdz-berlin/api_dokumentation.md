@@ -2,7 +2,7 @@
 
 Die API für die Daten is unter `https://api.smartcountry-hacks.de/itdz/` zu finden.
 
-### 1. Service- und Kundenstatistiken
+### Service- und Kundenstatistiken
 
 #### Standorte: `/itdz/subjects`
 
@@ -167,3 +167,15 @@ Zur **Kundenstatistik gibt es folgendes zu berücksichtigen**:
   ...
 ]
 ```
+
+#### Übersicht "Nächster freier Tag": `/itdz/stats/firstfreeday`
+
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/stats/firstfreeday`
+
+#### "Nächster freier Tag": `/itdz/stats/firstfreeday/:date`
+
+Liefert die "Nächster freier Tag" Statistik für den angeforderten Tag.
+
+Diese Statistik liefert Aufschluss darüber wie viele Tage in die Zukunft an dem Tag zu unterschiedlichen Uhrzeiten ein freiert Termin verfügbar war.
+
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/stats/firstfreeday/2018-11-14`
