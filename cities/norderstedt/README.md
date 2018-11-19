@@ -49,4 +49,5 @@ Hierfür stellen wir folgende Daten bereit:
 
 ## Zugang zu den Daten:
 
-To be announced!
+- [Übersicht der verfügbaren Daten](https://drive.google.com/open?id=1Tsc0wMDlKSvr94yx5bcU8mogN0Wsc26e)
+- [Download Daten](https://drive.google.com/open?id=1LC5iTo51Qffnjpejr3zFrEhHhSI1-AMj)
