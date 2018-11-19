@@ -28,8 +28,8 @@ Wir sind mit vielen Städten in Deutschland in Kontakt getreten und haben eine g
 ## 📡APIs provided by our API Partners📡
 
 * [Bundesministerium für Verkehr und digitale Infrastruktur](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/verkehrsministerium)
-* [AI Park](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/ai-park)
-* [Carouso dataplace](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/caruso-dataplace)
+* [AIPARK](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/ai-park)
+* [Carouso Dataplace](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/caruso-dataplace)
 * [High Mobility](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/high-mobility)
 * [Bundesministerium des Inneren](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/innen-ministerium)
 * [Wikimedia](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/wikimedia)
@@ -79,8 +79,8 @@ We have collected real-life challenges from out public event partners.
 ## 📡APIs provided by our API Partners📡
 
 * [Bundesministerium für Verkehr und digitale Infrastruktur](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/verkehrsministerium)
-* [AI Park](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/ai-park)
-* [Carouso dataplace](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/caruso-dataplace)
+* [AIPARK](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/ai-park)
+* [Carouso Dataplace](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/caruso-dataplace)
 * [High Mobility](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/high-mobility)
 * [Bundesministerium des Inneren](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/innen-ministerium)
 * [Wikimedia](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/partners/wikimedia)
