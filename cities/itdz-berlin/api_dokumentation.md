@@ -1,6 +1,6 @@
 ## ITDZ Berlin Hackathon API
 
-Die API für die Daten is unter `http://api.smartcountry-hacks.de/itdz/` zu finden.
+Die API für die Daten is unter `https://api.smartcountry-hacks.de/itdz/` zu finden.
 
 ### 1. Service- und Kundenstatistiken
 
@@ -8,7 +8,7 @@ Die API für die Daten is unter `http://api.smartcountry-hacks.de/itdz/` zu find
 
 Bei dieser Route kann eine Liste aller Standorte (Bürgerämter) abgerufen werden.
 
-**Beispiel Request**: `curl http://api.smartcountry-hacks.de/itdz/subjects`
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/subjects`
 
 **Beispiel Response**:
 ```
@@ -29,7 +29,7 @@ Bei dieser Route kann eine Liste aller Standorte (Bürgerämter) abgerufen werde
 
 Liefert eine Übersicht aller verfügbaren Dienstleistungsstatistiken.
 
-**Beispiel Request**: `curl http://api.smartcountry-hacks.de/itdz/stats/service`
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/stats/service`
 
 **Beispiel Response**:
 ```
@@ -70,7 +70,7 @@ Zur **Dienstleistungsstatistik gibt es folgendes zu berücksichtigen**:
     - `name` = Name der Dienstleistung
     - `requestcount` = erbrachte Menge
 
-**Beispiel Request**: `curl http://api.smartcountry-hacks.de/itdz/stats/service/101/2017-02`
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/stats/service/101/2017-02`
 
 **Beispiel Response**:
 ```
@@ -95,7 +95,7 @@ Zur **Dienstleistungsstatistik gibt es folgendes zu berücksichtigen**:
 
 Liefert eine Übersicht aller verfügbaren Kundenstatistiken.
 
-**Beispiel Request**: `curl http://api.smartcountry-hacks.de/itdz/stats/customer`
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/stats/customer`
 
 **Beispiel Response**:
 ```
@@ -136,7 +136,7 @@ Zur **Kundenstatistik gibt es folgendes zu berücksichtigen**:
 
 **Achtung:** Wir haben festgestellt, dass die Anzahl der „requestcounts“ in der Kundenstatistik manchmal von der in der Dienstleistungsstatistik abweichen. Grundsätzlich fehlen hier die „Rückfalldienstleistungen“.)
 
-**Beispiel Request**: `curl http://api.smartcountry-hacks.de/itdz/stats/customer/111/2016-06`
+**Beispiel Request**: `curl https://api.smartcountry-hacks.de/itdz/stats/customer/111/2016-06`
 
 **Beispiel Response**:
 
