@@ -4,7 +4,9 @@
   <img src="https://smartcountry-hacks.de/wp-content/uploads/2018/09/smartcountry-hacks-verkehrsministerium.png" width="300px"/>
 </div>
 
+## Workshop
 
+**Roland Goetzke** vom BMVI gibt **am Dienstag um 12:30** einen einführenden Workshop zu den bereitgestellten Daten.
 
 ## Datenbeschreibung
 
