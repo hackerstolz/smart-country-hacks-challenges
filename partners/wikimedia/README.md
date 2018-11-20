@@ -17,6 +17,7 @@ Wikidata is also a storage that can be used by all people and tools in the world
 For questions, there are people from Wikidata available on-site. If you can't find them you can also contact them via the [#wikidata](https://hackerstolz-community.slack.com/app_redirect?channel=CE3SB183B) Slack channel.
 
 ## Relevant links
+- [Slides from the workshop](https://tinyurl.com/WDSmartCountryHacks)
 - [Overview of data access methods](https://www.wikidata.org/wiki/Wikidata:Data_access)
 - [SPARQL Query Service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/Wikidata_Query_Help)
 
