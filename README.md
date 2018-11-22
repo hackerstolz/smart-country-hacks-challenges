@@ -23,7 +23,6 @@ Wir sind mit vielen Städten in Deutschland in Kontakt getreten und haben eine g
 * [Freiburg Digital Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/freiburg)
 * [München Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/m%C3%BCnchen)
 * [Norderstedt Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/norderstedt)
-* [Darmstadt Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/darmstadt)
 
 ## 📡APIs provided by our API Partners📡
 
@@ -74,7 +73,6 @@ We have collected real-life challenges from out public event partners.
 * [Freiburg Digital Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/freiburg)
 * [München Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/m%C3%BCnchen)
 * [Norderstedt Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/norderstedt)
-* [Darmstadt Challenges](https://github.com/hackerstolz/smart-country-hacks-challenges/tree/master/cities/darmstadt)
 
 ## 📡APIs provided by our API Partners📡
 
